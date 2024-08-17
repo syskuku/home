@@ -1,37 +1,27 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "iMikufans博客",
+    "link": "https://blog.imikufans.com/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "VOCLOID编辑器和声库网盘",
+    "link": "https://voicebanks.imikufans.com"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "新版VOCAKEY Wiki",
+    "link": "https://vocakey.imikufans.com"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "有为ACGN未来漫研社",
+    "link": "https://music.imsyy.top/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
